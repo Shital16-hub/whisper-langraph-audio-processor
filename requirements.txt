@@ -1,0 +1,7 @@
+langgraph
+openai-whisper
+spacy
+ffmpeg-python
+pydub
+tqdm
+numpy

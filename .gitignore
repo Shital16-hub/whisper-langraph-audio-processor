@@ -1,0 +1,35 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+logs/
+
+# Checkpoint files
+*.json
+
+# Output folders
+output/
+
+# Data folder (exclude it from being tracked)
+data/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Config files (if sensitive or environment-specific)
+config/config.yaml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
